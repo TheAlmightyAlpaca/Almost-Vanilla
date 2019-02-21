@@ -1,0 +1,53 @@
+
+                                                      Version Alpha 0.7
+
+-Changed many steelAnvil recipes to craftingTable recipes
+-Added missing recipes to quarry upgrades
+-Changed forge loading gif
+-Added chestTransporter through carryOn mod
+
+                                                      Version Alpha 0.6
+
+-Retextured plateArmor to refinedDiamondArmor
+-Removed plateArmor recipes
+-Removed steelTools recipes
+-Added craftingTable recipes for plateArmor
+-Changed steelTools to refinedDiamondTools
+-Added craftingTable recipes for steelTools
+-Tweaked betterwithmods Crucible recipes for regaining metals in plateArmor, armorStrap, and steelTools
+-Added betterwithmods Crucible recipe for regaining metals in diamondArmorStrap and diamondHorseArmor
+-Added betterwithmods Crucible recipe for un-alloying diamondSteelIngot, diamondPlate and steelPlate
+-Added grinding recipes to betterwithmods Mill
+
+                                                        Version Alpha 0.5
+
+-Added diamondPlate
+-Added diamondSteelIngot
+-Added diamondArmorStrap
+-Added betterwithmods Saw recipe for steel plate
+-Added betterwithmods Crucible recipe for diamondSteelIngot
+-Tweaked recipe for armorStrap
+-Added steelAnvil recipe for diamondArmorStrap
+
+                                                        Version Alpha 0.4
+
+-Added custom ore dusts for ore doubling
+-Registered dust outputs in betterWithMods mill
+-Registered smelting dust output in furnace
+-Hidden specific items from JEI to maintain 'vanilla feel' and remove unnecessary items
+
+                                                        Version Alpha 0.3
+
+-Downgraded betterWithMods due to JEI compatibility
+-Renamed 'soulforged steel' items to 'steel' items in lang file
+-Changed 'soulforged steel anvil' to 'steel workbench' with new model and lang edit
+-Added custom main menu
+
+                                                        Version Alpha 0.2
+                                                       
+
+-Removed cpu heavy mods, added performance mods (vanillaFix, fastWorkbench, fastFurnace, betterFPS)
+
+                                                        Version Alpha 0.1
+
+-Initial alpha release
